@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openerp>
+    <data>
+
+        <report id="report_payment_voucher_list" model="cheque.payment.voucher" name="cheque.voucher.list" string="Cheque Slip" rml="copia_cheque_payment_voucher/report/voucher.rml"/>
+        
+    </data>
+</openerp>
